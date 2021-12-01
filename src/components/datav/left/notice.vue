@@ -1,10 +1,12 @@
 <template>
     <div id="notice">
-        <div>公告</div>
-        <div class="small">
-            <div>平台累计运行天数：{{runtime}}天 当日重要通告数：<span class="small-red">{{count}}</span>条</div>
-        </div>
-        <dv-scroll-board :config="config"/>
+        <dv-border-box-12>
+            <div>公告</div>
+            <div class="small">
+                <div>平台累计运行天数：{{runtime}}天 当日重要通告数：<span class="small-red">{{count}}</span>条</div>
+            </div>
+            <dv-scroll-board :config="config"/>
+        </dv-border-box-12>
     </div>
 </template>
 

@@ -1,6 +1,7 @@
 <template>
     <div id="network">
-        网络
+        <dv-border-box-12>network
+        </dv-border-box-12>
     </div>
 </template>
 

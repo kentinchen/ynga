@@ -1,6 +1,8 @@
 <template>
     <div id="status">
-        状态
+        <dv-border-box-12>
+            status
+        </dv-border-box-12>
     </div>
 </template>
 

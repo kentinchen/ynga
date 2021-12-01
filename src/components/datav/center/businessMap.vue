@@ -1,6 +1,6 @@
 <template>
     <div id="map">
-        业务地图
+        <dv-flyline-chart :config="config" :dev="true" style="width:200px;height:100px;" />
     </div>
 </template>
 
