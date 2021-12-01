@@ -1,2 +1,6 @@
 ? Please pick a preset: Default ([Vue 2] babel, eslint)
 ? Pick the package manager to use when installing dependencies: Yarn
+http://datav.aliyuncs.com/share/571c4dfc73f3bc2f59a43082acf81fd7
+
+yarn add @jiaminghi/data-view
+yarn add less-loader less
