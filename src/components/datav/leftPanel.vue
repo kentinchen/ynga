@@ -1,5 +1,5 @@
 <template>
-    <div>
+    <div id="left-panel">
         <notice></notice>
         <status></status>
         <network></network>
@@ -23,5 +23,7 @@
 </script>
 
 <style lang="less">
-
+#left-panel {
+    width: 25%;
+}
 </style>

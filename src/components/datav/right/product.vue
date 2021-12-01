@@ -1,5 +1,7 @@
 <template>
-    <div></div>
+    <div id="product">
+        产品信息
+    </div>
 </template>
 
 <script>
@@ -9,5 +11,7 @@
 </script>
 
 <style scoped>
-
+#product {
+    width: 100%;
+}
 </style>

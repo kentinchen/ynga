@@ -3,8 +3,8 @@
         <dv-full-screen-container>
             <div class="main-content">
                 <top-header></top-header>
-                <div class="main-content">
-                    <left-panel class="left-panel"></left-panel>
+                <div class="block-left-right-content">
+                    <left-panel></left-panel>
                     <center-panel></center-panel>
                     <right-panel></right-panel>
                 </div>
@@ -40,6 +40,11 @@
             flex: 1;
             display: flex;
             flex-direction: column;
+        }
+        .block-left-right-content {
+            flex: 1;
+            display: flex;
+            margin-top: 20px;
         }
     }
 </style>

@@ -1,5 +1,7 @@
 <template>
-    <div></div>
+    <div id="network">
+        网络
+    </div>
 </template>
 
 <script>
@@ -9,5 +11,7 @@
 </script>
 
 <style lang="less">
+#network {
 
+}
 </style>

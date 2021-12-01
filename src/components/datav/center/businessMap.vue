@@ -1,17 +1,17 @@
 <template>
-    <div id="status">
-        状态
+    <div id="map">
+        业务地图
     </div>
 </template>
 
 <script>
     export default {
-        name: "status"
+        name: "businessMap"
     }
 </script>
 
 <style lang="less">
-#status {
-    width: 100%;
+#map {
+
 }
 </style>

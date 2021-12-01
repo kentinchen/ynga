@@ -1,5 +1,7 @@
 <template>
-    <div></div>
+    <div id="business">
+        业务指标
+    </div>
 </template>
 
 <script>
@@ -8,6 +10,8 @@
     }
 </script>
 
-<style scoped>
+<style lang="less">
+#business {
 
+}
 </style>

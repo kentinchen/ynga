@@ -1,5 +1,7 @@
 <template>
-    <div></div>
+    <div id="notice">
+        通知
+    </div>
 </template>
 
 <script>
@@ -9,5 +11,7 @@
 </script>
 
 <style lang="less">
-
+#notice {
+    width: 100%;
+}
 </style>
