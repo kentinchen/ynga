@@ -16,7 +16,7 @@
                 count: 0,
                 runtime: 0,
                 config: {
-                    header: ['No.','通告标题'],
+                    header: ['No','通告标题'],
                     data: [
                         ['1','WJ运营大屏重要公告标题'],
                         ['2','全市深入推进党史学习教育“民呼我为”主题活动部署会召开'],
@@ -24,8 +24,8 @@
                         ['4','杭州市人民政府 关于调整杭州市部分行政区划的通知'],
                         ['5','周江勇主持召开城市地下隐患专项治理工作专题会议']
                     ],
-                    index: true,
-                    columnWidth: [30],
+                    index: false,
+                    columnWidth: [50,300],
                     align: ['left'],
                     rowNum: 4,
                     headerBGC: '#1981f6',
